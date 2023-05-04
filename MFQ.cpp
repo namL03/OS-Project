@@ -183,7 +183,5 @@ main()
             cout<<"Time "<<t<<": No process execution"<<'\n';
             t++;
         }
-        //cout<<executing<<" "<<pq.size()<<" "<<q1.size()<<" "<<q2.size()<<'\n';
     }
-    cin>>n;
 }
